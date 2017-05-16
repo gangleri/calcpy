@@ -1,0 +1,4 @@
+.idea/
+build/
+calcpy.egg-info/
+dist/
